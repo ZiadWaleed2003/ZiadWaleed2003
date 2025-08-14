@@ -1,5 +1,5 @@
-# 💫 About Me:
-Howdy 🤠<br>- I'm Ziad Waleed NLP Intern @Aice Xpert<br>- I'm interseted in ML/AI<br>- Currently exploring Multi Agent systems and Agentic AI<br>- I’m looking to collaborate on AI projects, libraries, and open source projects
+# Howdy 🤠
+<br>- I'm Ziad Waleed NLP Intern @Aice Xpert<br>- I'm interseted in ML/AI<br>- Currently exploring Multi Agent systems and Agentic AI<br>- I’m looking to collaborate on AI projects, libraries, and open source projects
 
 
 ## 🌐 Socials:
