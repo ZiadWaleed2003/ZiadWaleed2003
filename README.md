@@ -1,5 +1,5 @@
-# Howdy 🤠
-<br>- I'm Ziad Waleed NLP Intern @Aice Xpert<br>- I'm interseted in ML/AI<br>- Currently exploring Multi Agent systems and Agentic AI<br>- I’m looking to collaborate on AI projects, libraries, and open source projects
+# Hi
+<br>- I'm going to try to make this short ... anyway My name is Ziad Waleed<br>- I'm interseted in ML/AI<br>- Currently exploring Multi Agent systems and Agentic AI<br>- I’m looking to collaborate on AI projects, libraries, and open source projects
 
 
 ## 🌐 Socials:
@@ -14,6 +14,5 @@
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ZiadWaleed2003&theme=nord&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ZiadWaleed2003&theme=nord&hide_border=true)<br/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
