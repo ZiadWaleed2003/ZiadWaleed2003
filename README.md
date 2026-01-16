@@ -13,7 +13,3 @@
     <img src="https://skillicons.dev/icons?i=python,rust,pytorch,cpp,fastapi,git,linux,docker,aws,gcp,anaconda,mysql&perline=5" />
   </a>
 </p>
-
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=ZiadWaleed2003&theme=nord&hide_border=true)<br/>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
